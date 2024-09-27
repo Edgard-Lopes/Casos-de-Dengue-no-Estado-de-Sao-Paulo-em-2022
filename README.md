@@ -1,7 +1,14 @@
 # Casos de Dengue no Estado de São Paulo em 2022
-  Projeto de dashboard em **Power BI** para representar os dados epidemiológicos de Dengue da plataforma do [CVE - Centro de Vigilância Epidemiológica "Prof. Alexandre Vranjac"](https://www.saude.sp.gov.br/cve-centro-de-vigilancia-epidemiologica-prof.-alexandre-vranjac/areas-de-vigilancia/doencas-de-transmissao-por-vetores-e-zoonoses/agravos/). de maneira mais dinâmica e acrescentar insights.
+  Projeto de dashboard em **Power BI** para representar os dados epidemiológicos de Dengue da plataforma do [CVE - Centro de Vigilância Epidemiológica "Prof. Alexandre Vranjac"](https://www.saude.sp.gov.br/cve-centro-de-vigilancia-epidemiologica-prof.-alexandre-vranjac/areas-de-vigilancia/doencas-de-transmissao-por-vetores-e-zoonoses/agravos/) de maneira mais dinâmica e acrescentar insights. <br>
+  <br>
+  Assim com pensar na pensando na vistualização que seria importante para:
+- um gestor do estado
+- subgestor das GVEs
+- subgestor das Regiões de Saúde
+- subgestor dos Município.
  <br>
  <br>
+ 
   ![Texto Alternativo](https://github.com/Edgard-Lopes/dengue/blob/main/Dashboard%20-%20Dados%20epidemiol%C3%B3gicos.jpg)
 
 ## Origem
