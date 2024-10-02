@@ -8,9 +8,19 @@
 - Subgestor dos Município.
  <br>
  <br>
- 
-  ![Texto Alternativo](https://raw.githubusercontent.com/Edgard-Lopes/Casos-de-Dengue-no-Estado-de-Sao-Paulo-em-2022/refs/heads/main/Imagens/Dashboard%20-%20Dados%20epidemiol%C3%B3gicos.jpg)
+-- Versão Atualizada:
 
+  ![Texto Alternativo](https://github.com/Edgard-Lopes/Casos-de-Dengue-no-Estado-de-Sao-Paulo-em-2022/blob/main/Imagens/Dash%20Board%20-%20Dados%20Epidemiol%C3%B3gicos%20-%20out.%202024.png)
+-- Versão Anterior:
+
+  ![Texto Alternativo](https://raw.githubusercontent.com/Edgard-Lopes/Casos-de-Dengue-no-Estado-de-Sao-Paulo-em-2022/refs/heads/main/Imagens/Dashboard%20-%20Dados%20epidemiol%C3%B3gicos.jpg)
+## Informações da Base
+- Notificados:
++ + 
+- Confirmados Autoctenes:
++ +      
+- Confirmados importados:
++ + 
 ## Origem
   A ideia do projeto surgiu com a aplicação do Itinerário **"Zoonoses Tropicais"** que apliquei enquanto era professor do Ensino Público do Estado de São Paulo. Durante a disciplina, me deparei com a dificuldade de encontrar informações epidemiológicas, visualizar as informações e tranformar os dados disponíveis em dados trabalháveis para o nível exigido pelos alunos do Ensino Médio.
 
