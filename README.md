@@ -9,7 +9,7 @@
  <br>
  <br>
  
-  ![Texto Alternativo](https://github.com/Edgard-Lopes/dengue/blob/main/Dashboard%20-%20Dados%20epidemiol%C3%B3gicos.jpg)
+  ![Texto Alternativo]([https://github.com/Edgard-Lopes/dengue/blob/main/Dashboard%20-%20Dados%20epidemiol%C3%B3gicos.jpg](https://github.com/Edgard-Lopes/Casos-de-Dengue-no-Estado-de-Sao-Paulo-em-2022/blob/main/Imagens/Dashboard%20-%20Dados%20epidemiol%C3%B3gicos.jpg))
 
 ## Origem
   A ideia do projeto surgiu com a aplicação do Itinerário **"Zoonoses Tropicais"** que apliquei enquanto era professor do Ensino Público do Estado de São Paulo. Durante a disciplina, me deparei com a dificuldade de encontrar informações epidemiológicas, visualizar as informações e tranformar os dados disponíveis em dados trabalháveis para o nível exigido pelos alunos do Ensino Médio.
